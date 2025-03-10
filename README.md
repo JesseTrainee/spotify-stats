@@ -1,4 +1,14 @@
-# spotify-track
-The goal of this project is to create a data analysis of my Spotify
+# spotify-stats
+The goal of this project is to create a data analysis of my Spotify.
+
+Stack
+- Python;
+- Pandas;
+- React;
+- Charts.js;
+
 API
-https://developer.spotify.com/documentation/web-api
+- https://developer.spotify.com/documentation/web-api
+
+Design Reference
+- https://developer.spotify.com/documentation/design
